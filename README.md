@@ -1,3 +1,3 @@
 # Natural Language Processing With Tensorflow 
 
-Some NLP preprocessing algorithms implemented with Tensorflow 
+NLP algorithms implemented with Tensorflow, such as LSTM(Long-Short Term Memory), GRU(Gated Recurrent Unit)
